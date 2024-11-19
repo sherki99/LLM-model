@@ -73,7 +73,7 @@ def chat(message, history):
 
 You can also create a Gradio-based user interface to interact with the chatbot. Below is an example image of how the Gradio interface might look:
 
-![images](images/Immagine 2024-11-19 171210.png)
+![Description of Image](images/Immagine 2024-11-19 171210.png)
 
 ## Conclusion
 
