@@ -71,7 +71,7 @@ def chat(message, history):
 
 ## Gradio UI (Optional)
 
-You can also create a Gradio-based user interface to interact with the chatbot. Below is an example image of how the Gradio interface might look (to be inserted in the notebook):
+You can also create a Gradio-based user interface to interact with the chatbot. Below is an example image of how the Gradio interface might look:
 
 ![Gradio UI Example](image-placeholder.jpg)
 
